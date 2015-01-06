@@ -1,5 +1,4 @@
 # Java Test Applications
-[![Build Status](https://travis-ci.org/cloudfoundry/java-test-applications.svg?branch=master)](https://travis-ci.org/cloudfoundry/java-test-applications)
 
 A collection of applications used for testing the Java buildpack.
 
