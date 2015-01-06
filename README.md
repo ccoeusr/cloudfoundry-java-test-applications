@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Java Test Applications
 [![Build Status](https://travis-ci.org/cloudfoundry/java-test-applications.svg?branch=master)](https://travis-ci.org/cloudfoundry/java-test-applications)
 
@@ -106,4 +105,3 @@ cloudfoundry-java-test-applications
 ===================================
 
 Cloudfoundry java test applications
->>>>>>> 9c3f02ffe0e3c3cbd41f357e078a5d81457b6477
